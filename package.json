@@ -1,0 +1,13 @@
+{
+  "name": "aafat-whitelist-bot",
+  "version": "1.0.0",
+  "main": "aafat-bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node aafat-bot.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  }
+}
